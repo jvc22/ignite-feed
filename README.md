@@ -1,4 +1,4 @@
-<h1><img align="center" height="30" src="https://cdn.discordapp.com/attachments/861681804007178290/1192849608657879090/logo.png?ex=65aa92c4&is=65981dc4&hm=81803cd5f6d702bdf4be65628c3daaf0ae082b1c9a31c885e002e4e6fd506cde"> Ignite Feed</h1>
+<h1><img align="center" height="30" src="/src/assets/ignite-logo.svg"> Ignite Feed</h1>
 
 **Ignite Feed** is a SPA built with React to recreate a feed of posts based on Social Media applications.
 
