@@ -10,8 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@rocketseat/eslint-config": "^2.1.0",
     "@phosphor-icons/react": "^2.0.15",
+    "@rocketseat/eslint-config": "^2.1.0",
     "date-fns": "^3.0.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
