@@ -7,7 +7,7 @@
 
 **Client:** Vite, React, TypeScript
 
-**Additional dependencies:** date-fns, @rocketseat/eslint-config
+**Additional dependencies:** @phosphor-icons/react, date-fns, @rocketseat/eslint-config
 
 
 ## Components
